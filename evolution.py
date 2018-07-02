@@ -4,7 +4,7 @@ import time
 
 possibleCharacters = string.ascii_lowercase + string.digits + string.ascii_uppercase + ' .,!?;:'
 
-target = input("Type a word of phrase and let the evolution begin: ")
+target = input("Type a word or phrase and let the evolution begin: ")
 attemptThis = ''.join(random.choice(possibleCharacters) for i in range(len(target)))
 attemptNext = ''
 

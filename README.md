@@ -1,4 +1,4 @@
-# evolution-of-code ![](https://img.shields.io/badge/License-CC%20BY--SA%203.0-blue.svg) ![](https://img.shields.io/codeclimate/maintainability/rbstrachan/evolution-of-code.svg) ![](https://img.shields.io/github/issues/rbstrachan/evolution-of-code.svg)
+# evolution-of-code ![](https://img.shields.io/badge/License-CC%20BY--SA%203.0-blue.svg) ![](https://img.shields.io/codeclimate/maintainability/rbstrachan/evolution-of-code.svg)
 Python script that takes in a string and continues to generate seemingly random strings of equal length until the original is matched.
 
 # Disclaimer

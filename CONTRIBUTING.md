@@ -23,7 +23,7 @@ This project and everyone participating in it is governed by the [Contributor Co
 
 ## I don't want to read this whole thing I just have a question!
 
-For questions concerning Evolution Of Code - including descriptions and explanations of the code - you can visit  the [Using Python website](usingpython.com).
+For questions concerning Evolution Of Code - including descriptions and explanations of the code - you can visit  the [Using Python website](https://usingpython.com).
 
 For questions and information regarding this repository, you can ask your question by [opening an issue](https://github.com/rbstrachan/evolution-of-code/issues).
 
